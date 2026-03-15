@@ -1,28 +1,4 @@
 {
-  "abstract": [
-    "https://raw.githubusercontent.com/hypesol/wallify/main/wallpapers/abstract/w1.webp",
-    "https://raw.githubusercontent.com/hypesol/wallify/main/wallpapers/abstract/w2.webp",
-    "https://raw.githubusercontent.com/hypesol/wallify/main/wallpapers/abstract/w3.webp",
-    "https://raw.githubusercontent.com/hypesol/wallify/main/wallpapers/abstract/w4.webp",
-    "https://raw.githubusercontent.com/hypesol/wallify/main/wallpapers/abstract/w5.webp",
-    "https://raw.githubusercontent.com/hypesol/wallify/main/wallpapers/abstract/w6.webp",
-    "https://raw.githubusercontent.com/hypesol/wallify/main/wallpapers/abstract/w7.webp",
-    "https://raw.githubusercontent.com/hypesol/wallify/main/wallpapers/abstract/w8.webp"
-  ],
-  "animals": [
-    "https://raw.githubusercontent.com/hypesol/wallify/main/wallpapers/animals/w1.webp",
-    "https://raw.githubusercontent.com/hypesol/wallify/main/wallpapers/animals/w2.webp",
-    "https://raw.githubusercontent.com/hypesol/wallify/main/wallpapers/animals/w3.webp",
-    "https://raw.githubusercontent.com/hypesol/wallify/main/wallpapers/animals/w4.webp",
-    "https://raw.githubusercontent.com/hypesol/wallify/main/wallpapers/animals/w5.webp",
-    "https://raw.githubusercontent.com/hypesol/wallify/main/wallpapers/animals/w6.webp",
-    "https://raw.githubusercontent.com/hypesol/wallify/main/wallpapers/animals/w7.webp",
-    "https://raw.githubusercontent.com/hypesol/wallify/main/wallpapers/animals/w8.webp"
-  ],
-  "cartoon": [
-    "https://raw.githubusercontent.com/hypesol/wallify/main/wallpapers/cartoon/w1.webp",
-    "https://raw.githubusercontent.com/hypesol/wallify/main/wallpapers/cartoon/w2.webp",
-    "https://raw.githubusercontent.com/hypesol/wallify/main/wallpapers/cartoon/w3.webp",
-    "https://raw.githubusercontent.com/hypesol/wallify/main/wallpapers/cartoon/w4.webp"
-  ]
+  "full": [],
+  "thumb": []
 }

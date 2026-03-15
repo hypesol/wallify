@@ -1,7 +1,6 @@
 const fs = require("fs");
 const path = require("path");
 
-const baseUrl = "https://raw.githubusercontent.com/hypesol/wallify/main/wallpapers"; // Update with your actual CDN/hosting URL
 const wallpapersDir = "./wallpapers";
 
 let data = {};
@@ -14,8 +13,8 @@ fs.readdirSync(wallpapersDir).forEach(category => {
 
     fs.readdirSync(categoryPath).forEach(file => {
       if (file.endsWith(".jpg") || file.endsWith(".webp")) {
-        const url = `${baseUrl}/${category}/${file}`;
-        data[category].push(url);
+        const imagePath = `${category}/${file}`;
+        data[category].push(imagePath);
       }
     });
   }
