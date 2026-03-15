@@ -1,58 +1,28 @@
 {
-  "full": {
-    "abstract": [
-      "full/abstract/w1.webp",
-      "full/abstract/w2.webp",
-      "full/abstract/w3.webp",
-      "full/abstract/w4.webp",
-      "full/abstract/w5.webp",
-      "full/abstract/w6.webp",
-      "full/abstract/w7.webp",
-      "full/abstract/w8.webp"
-    ],
-    "animals": [
-      "full/animals/w1.webp",
-      "full/animals/w2.webp",
-      "full/animals/w3.webp",
-      "full/animals/w4.webp",
-      "full/animals/w5.webp",
-      "full/animals/w6.webp",
-      "full/animals/w7.webp",
-      "full/animals/w8.webp"
-    ],
-    "cartoon": [
-      "full/cartoon/w1.webp",
-      "full/cartoon/w2.webp",
-      "full/cartoon/w3.webp",
-      "full/cartoon/w4.webp"
-    ]
-  },
-  "thumb": {
-    "abstract": [
-      "thumb/abstract/w1.webp",
-      "thumb/abstract/w2.webp",
-      "thumb/abstract/w3.webp",
-      "thumb/abstract/w4.webp",
-      "thumb/abstract/w5.webp",
-      "thumb/abstract/w6.webp",
-      "thumb/abstract/w7.webp",
-      "thumb/abstract/w8.webp"
-    ],
-    "animals": [
-      "thumb/animals/w1.webp",
-      "thumb/animals/w2.webp",
-      "thumb/animals/w3.webp",
-      "thumb/animals/w4.webp",
-      "thumb/animals/w5.webp",
-      "thumb/animals/w6.webp",
-      "thumb/animals/w7.webp",
-      "thumb/animals/w8.webp"
-    ],
-    "cartoon": [
-      "thumb/cartoon/w1.webp",
-      "thumb/cartoon/w2.webp",
-      "thumb/cartoon/w3.webp",
-      "thumb/cartoon/w4.webp"
-    ]
-  }
+  "abstract": [
+    "abstract/w1.webp",
+    "abstract/w2.webp",
+    "abstract/w3.webp",
+    "abstract/w4.webp",
+    "abstract/w5.webp",
+    "abstract/w6.webp",
+    "abstract/w7.webp",
+    "abstract/w8.webp"
+  ],
+  "animals": [
+    "animals/w1.webp",
+    "animals/w2.webp",
+    "animals/w3.webp",
+    "animals/w4.webp",
+    "animals/w5.webp",
+    "animals/w6.webp",
+    "animals/w7.webp",
+    "animals/w8.webp"
+  ],
+  "cartoon": [
+    "cartoon/w1.webp",
+    "cartoon/w2.webp",
+    "cartoon/w3.webp",
+    "cartoon/w4.webp"
+  ]
 }
