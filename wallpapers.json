@@ -19,10 +19,70 @@
     "animals/w7.webp",
     "animals/w8.webp"
   ],
+  "black": [
+    "black/w1.webp",
+    "black/w2.webp",
+    "black/w3.webp",
+    "black/w4.webp",
+    "black/w5.webp",
+    "black/w6.webp"
+  ],
   "cartoon": [
     "cartoon/w1.webp",
     "cartoon/w2.webp",
     "cartoon/w3.webp",
     "cartoon/w4.webp"
+  ],
+  "dark": [
+    "dark/w1.webp",
+    "dark/w2.webp",
+    "dark/w3.webp",
+    "dark/w4.webp",
+    "dark/w5.webp",
+    "dark/w6.webp",
+    "dark/w7.webp"
+  ],
+  "nature": [
+    "nature/w1.webp",
+    "nature/w10.webp",
+    "nature/w11.webp",
+    "nature/w12.webp",
+    "nature/w13.webp",
+    "nature/w14.webp",
+    "nature/w15.webp",
+    "nature/w16.webp",
+    "nature/w17.webp",
+    "nature/w18.webp",
+    "nature/w19.webp",
+    "nature/w2.webp",
+    "nature/w20.webp",
+    "nature/w21.webp",
+    "nature/w3.webp",
+    "nature/w4.webp",
+    "nature/w5.webp",
+    "nature/w6.webp",
+    "nature/w7.webp",
+    "nature/w8.webp",
+    "nature/w9.webp"
+  ],
+  "random": [
+    "random/w1.webp",
+    "random/w10.webp",
+    "random/w2.webp",
+    "random/w3.webp",
+    "random/w4.webp",
+    "random/w5.webp",
+    "random/w6.webp",
+    "random/w7.webp",
+    "random/w8.webp",
+    "random/w9.webp"
+  ],
+  "sky": [
+    "sky/w1.webp",
+    "sky/w2.webp",
+    "sky/w3.webp",
+    "sky/w4.webp",
+    "sky/w5.webp",
+    "sky/w6.webp"
   ]
 }
